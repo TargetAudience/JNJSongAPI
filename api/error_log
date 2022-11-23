@@ -1,0 +1,153 @@
+[21-Aug-2022 08:24:13 America/New_York] PHP Warning:  include_once(conn.php): failed to open stream: No such file or directory in /home/glonnwas/public_html/videoApp/api/getAllVideos.php on line 2
+[21-Aug-2022 08:24:13 America/New_York] PHP Warning:  include_once(): Failed opening 'conn.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/glonnwas/public_html/videoApp/api/getAllVideos.php on line 2
+[21-Aug-2022 08:24:13 America/New_York] PHP Notice:  Undefined variable: con in /home/glonnwas/public_html/videoApp/api/getAllVideos.php on line 3
+[21-Aug-2022 08:24:13 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/glonnwas/public_html/videoApp/api/getAllVideos.php on line 3
+[21-Aug-2022 08:24:13 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/glonnwas/public_html/videoApp/api/getAllVideos.php on line 5
+[21-Aug-2022 08:24:13 America/New_York] PHP Notice:  Undefined variable: con in /home/glonnwas/public_html/videoApp/api/getAllVideos.php on line 14
+[21-Aug-2022 08:24:13 America/New_York] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/glonnwas/public_html/videoApp/api/getAllVideos.php on line 14
+[21-Aug-2022 17:28:25 Asia/Karachi] PHP Notice:  Undefined variable: data_post in /home/glonnwas/public_html/videoApp/api/create_user.php on line 9
+[21-Aug-2022 17:29:21 Asia/Karachi] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/glonnwas/public_html/videoApp/includes/PHPMailer-master/PHPMailerAutoload.php on line 45
+[21-Aug-2022 17:32:28 Asia/Karachi] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/glonnwas/public_html/videoApp/includes/PHPMailer-master/PHPMailerAutoload.php on line 45
+[21-Aug-2022 17:35:10 Asia/Karachi] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/glonnwas/public_html/videoApp/includes/PHPMailer-master/PHPMailerAutoload.php on line 45
+[21-Aug-2022 17:37:03 Asia/Karachi] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/glonnwas/public_html/videoApp/includes/PHPMailer-master/PHPMailerAutoload.php on line 45
+[21-Aug-2022 17:39:01 Asia/Karachi] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/glonnwas/public_html/videoApp/includes/PHPMailer-master/PHPMailerAutoload.php on line 45
+[21-Aug-2022 17:54:00 Asia/Karachi] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/glonnwas/public_html/videoApp/includes/PHPMailer-master/PHPMailerAutoload.php on line 45
+[21-Aug-2022 17:54:05 Asia/Karachi] PHP Notice:  Undefined variable: hash_pass in /home/glonnwas/public_html/videoApp/api/create_user.php on line 83
+[21-Aug-2022 17:54:05 Asia/Karachi] PHP Notice:  Undefined variable: mobile in /home/glonnwas/public_html/videoApp/api/create_user.php on line 83
+[21-Aug-2022 18:02:09 Asia/Karachi] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/glonnwas/public_html/videoApp/includes/PHPMailer-master/PHPMailerAutoload.php on line 45
+[21-Aug-2022 09:12:18 America/New_York] PHP Warning:  include_once(../include/conn.php): failed to open stream: No such file or directory in /home/glonnwas/public_html/videoApp/api/verify_opt_registration.php on line 2
+[21-Aug-2022 09:12:18 America/New_York] PHP Warning:  include_once(): Failed opening '../include/conn.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/glonnwas/public_html/videoApp/api/verify_opt_registration.php on line 2
+[21-Aug-2022 09:12:18 America/New_York] PHP Notice:  Undefined variable: con in /home/glonnwas/public_html/videoApp/api/verify_opt_registration.php on line 8
+[21-Aug-2022 09:12:18 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/glonnwas/public_html/videoApp/api/verify_opt_registration.php on line 8
+[21-Aug-2022 09:12:18 America/New_York] PHP Notice:  Undefined variable: con in /home/glonnwas/public_html/videoApp/api/verify_opt_registration.php on line 9
+[21-Aug-2022 09:12:18 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/glonnwas/public_html/videoApp/api/verify_opt_registration.php on line 9
+[21-Aug-2022 09:12:18 America/New_York] PHP Notice:  Undefined variable: con in /home/glonnwas/public_html/videoApp/api/verify_opt_registration.php on line 11
+[21-Aug-2022 09:12:18 America/New_York] PHP Notice:  Undefined index: password in /home/glonnwas/public_html/videoApp/api/verify_opt_registration.php on line 11
+[21-Aug-2022 09:12:18 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/glonnwas/public_html/videoApp/api/verify_opt_registration.php on line 11
+[21-Aug-2022 09:12:18 America/New_York] PHP Notice:  Undefined variable: con in /home/glonnwas/public_html/videoApp/api/verify_opt_registration.php on line 13
+[21-Aug-2022 09:12:18 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/glonnwas/public_html/videoApp/api/verify_opt_registration.php on line 13
+[21-Aug-2022 09:12:18 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glonnwas/public_html/videoApp/api/verify_opt_registration.php on line 14
+[21-Aug-2022 09:12:18 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/glonnwas/public_html/videoApp/api/verify_opt_registration.php on line 15
+[21-Aug-2022 09:12:59 America/New_York] PHP Warning:  include_once(../include/conn.php): failed to open stream: No such file or directory in /home/glonnwas/public_html/videoApp/api/verify_opt_registration.php on line 2
+[21-Aug-2022 09:12:59 America/New_York] PHP Warning:  include_once(): Failed opening '../include/conn.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/glonnwas/public_html/videoApp/api/verify_opt_registration.php on line 2
+[21-Aug-2022 09:12:59 America/New_York] PHP Notice:  Undefined variable: con in /home/glonnwas/public_html/videoApp/api/verify_opt_registration.php on line 8
+[21-Aug-2022 09:12:59 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/glonnwas/public_html/videoApp/api/verify_opt_registration.php on line 8
+[21-Aug-2022 09:12:59 America/New_York] PHP Notice:  Undefined variable: con in /home/glonnwas/public_html/videoApp/api/verify_opt_registration.php on line 9
+[21-Aug-2022 09:12:59 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/glonnwas/public_html/videoApp/api/verify_opt_registration.php on line 9
+[21-Aug-2022 09:12:59 America/New_York] PHP Notice:  Undefined variable: con in /home/glonnwas/public_html/videoApp/api/verify_opt_registration.php on line 11
+[21-Aug-2022 09:12:59 America/New_York] PHP Notice:  Undefined index: password in /home/glonnwas/public_html/videoApp/api/verify_opt_registration.php on line 11
+[21-Aug-2022 09:12:59 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/glonnwas/public_html/videoApp/api/verify_opt_registration.php on line 11
+[21-Aug-2022 09:12:59 America/New_York] PHP Notice:  Undefined variable: con in /home/glonnwas/public_html/videoApp/api/verify_opt_registration.php on line 13
+[21-Aug-2022 09:12:59 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/glonnwas/public_html/videoApp/api/verify_opt_registration.php on line 13
+[21-Aug-2022 09:12:59 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glonnwas/public_html/videoApp/api/verify_opt_registration.php on line 14
+[21-Aug-2022 09:12:59 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/glonnwas/public_html/videoApp/api/verify_opt_registration.php on line 15
+[21-Aug-2022 09:13:14 America/New_York] PHP Warning:  include_once(../include/conn.php): failed to open stream: No such file or directory in /home/glonnwas/public_html/videoApp/api/verify_opt_registration.php on line 2
+[21-Aug-2022 09:13:14 America/New_York] PHP Warning:  include_once(): Failed opening '../include/conn.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/glonnwas/public_html/videoApp/api/verify_opt_registration.php on line 2
+[21-Aug-2022 09:13:14 America/New_York] PHP Notice:  Undefined variable: con in /home/glonnwas/public_html/videoApp/api/verify_opt_registration.php on line 8
+[21-Aug-2022 09:13:14 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/glonnwas/public_html/videoApp/api/verify_opt_registration.php on line 8
+[21-Aug-2022 09:13:14 America/New_York] PHP Notice:  Undefined variable: con in /home/glonnwas/public_html/videoApp/api/verify_opt_registration.php on line 9
+[21-Aug-2022 09:13:14 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/glonnwas/public_html/videoApp/api/verify_opt_registration.php on line 9
+[21-Aug-2022 09:13:14 America/New_York] PHP Notice:  Undefined variable: con in /home/glonnwas/public_html/videoApp/api/verify_opt_registration.php on line 11
+[21-Aug-2022 09:13:14 America/New_York] PHP Notice:  Undefined index: password in /home/glonnwas/public_html/videoApp/api/verify_opt_registration.php on line 11
+[21-Aug-2022 09:13:14 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/glonnwas/public_html/videoApp/api/verify_opt_registration.php on line 11
+[21-Aug-2022 18:13:50 Asia/Karachi] PHP Notice:  Undefined index: password in /home/glonnwas/public_html/videoApp/api/verify_opt_registration.php on line 11
+[21-Aug-2022 18:14:03 Asia/Karachi] PHP Notice:  Undefined index: password in /home/glonnwas/public_html/videoApp/api/verify_opt_registration.php on line 11
+[21-Aug-2022 18:14:22 Asia/Karachi] PHP Notice:  Undefined index: password in /home/glonnwas/public_html/videoApp/api/verify_opt_registration.php on line 11
+[21-Aug-2022 18:14:58 Asia/Karachi] PHP Notice:  Undefined index: password in /home/glonnwas/public_html/videoApp/api/verify_opt_registration.php on line 11
+[21-Aug-2022 18:33:44 Asia/Karachi] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/glonnwas/public_html/videoApp/includes/PHPMailer-master/PHPMailerAutoload.php on line 45
+[23-Aug-2022 00:50:05 Asia/Karachi] PHP Notice:  Undefined index: email in /home/glonnwas/public_html/videoApp/api/login.php on line 8
+[23-Aug-2022 00:50:05 Asia/Karachi] PHP Notice:  Undefined index: password in /home/glonnwas/public_html/videoApp/api/login.php on line 10
+[23-Aug-2022 00:50:07 Asia/Karachi] PHP Notice:  Undefined index: email in /home/glonnwas/public_html/videoApp/api/login.php on line 8
+[23-Aug-2022 00:50:07 Asia/Karachi] PHP Notice:  Undefined index: password in /home/glonnwas/public_html/videoApp/api/login.php on line 10
+[23-Aug-2022 02:06:22 Asia/Karachi] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/glonnwas/public_html/videoApp/includes/PHPMailer-master/PHPMailerAutoload.php on line 45
+[23-Aug-2022 02:06:27 Asia/Karachi] PHP Notice:  Undefined variable: mobile in /home/glonnwas/public_html/videoApp/api/create_user.php on line 91
+[23-Aug-2022 02:07:45 Asia/Karachi] PHP Notice:  Undefined variable: mobile in /home/glonnwas/public_html/videoApp/api/create_user.php on line 91
+[23-Aug-2022 02:20:06 Asia/Karachi] PHP Notice:  Undefined index: email in /home/glonnwas/public_html/videoApp/api/verify_opt_registration.php on line 8
+[23-Aug-2022 02:20:06 Asia/Karachi] PHP Notice:  Undefined index: password in /home/glonnwas/public_html/videoApp/api/verify_opt_registration.php on line 11
+[23-Aug-2022 02:20:26 Asia/Karachi] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/glonnwas/public_html/videoApp/includes/PHPMailer-master/PHPMailerAutoload.php on line 45
+[23-Aug-2022 02:20:31 Asia/Karachi] PHP Notice:  Undefined variable: mobile in /home/glonnwas/public_html/videoApp/api/create_user.php on line 91
+[23-Aug-2022 02:21:07 Asia/Karachi] PHP Notice:  Undefined index: password in /home/glonnwas/public_html/videoApp/api/verify_opt_registration.php on line 11
+[23-Aug-2022 02:21:25 Asia/Karachi] PHP Notice:  Undefined index: password in /home/glonnwas/public_html/videoApp/api/verify_opt_registration.php on line 11
+[23-Aug-2022 02:21:59 Asia/Karachi] PHP Notice:  Undefined index: password in /home/glonnwas/public_html/videoApp/api/verify_opt_registration.php on line 11
+[23-Aug-2022 19:51:19 Asia/Karachi] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/glonnwas/public_html/videoApp/includes/PHPMailer-master/PHPMailerAutoload.php on line 45
+[23-Aug-2022 19:53:25 Asia/Karachi] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/glonnwas/public_html/videoApp/includes/PHPMailer-master/PHPMailerAutoload.php on line 45
+[23-Aug-2022 19:56:55 Asia/Karachi] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/glonnwas/public_html/videoApp/includes/PHPMailer-master/PHPMailerAutoload.php on line 45
+[23-Aug-2022 19:59:20 Asia/Karachi] PHP Notice:  Undefined index: password in /home/glonnwas/public_html/videoApp/api/verify_opt_registration.php on line 11
+[23-Aug-2022 19:59:40 Asia/Karachi] PHP Notice:  Undefined index: password in /home/glonnwas/public_html/videoApp/api/verify_opt_registration.php on line 11
+[23-Aug-2022 19:59:46 Asia/Karachi] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/glonnwas/public_html/videoApp/includes/PHPMailer-master/PHPMailerAutoload.php on line 45
+[23-Aug-2022 22:46:55 Asia/Karachi] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/glonnwas/public_html/videoApp/includes/PHPMailer-master/PHPMailerAutoload.php on line 45
+[23-Aug-2022 22:47:24 Asia/Karachi] PHP Notice:  Undefined index: password in /home/glonnwas/public_html/videoApp/api/verify_opt_registration.php on line 11
+[23-Aug-2022 22:47:40 Asia/Karachi] PHP Notice:  Undefined index: password in /home/glonnwas/public_html/videoApp/api/verify_opt_registration.php on line 11
+[23-Aug-2022 22:47:49 Asia/Karachi] PHP Notice:  Undefined index: password in /home/glonnwas/public_html/videoApp/api/verify_opt_registration.php on line 11
+[23-Aug-2022 22:48:32 Asia/Karachi] PHP Notice:  Undefined index: password in /home/glonnwas/public_html/videoApp/api/verify_opt_registration.php on line 11
+[23-Aug-2022 23:23:00 Asia/Karachi] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/glonnwas/public_html/videoApp/includes/PHPMailer-master/PHPMailerAutoload.php on line 45
+[23-Aug-2022 23:23:36 Asia/Karachi] PHP Notice:  Undefined index: password in /home/glonnwas/public_html/videoApp/api/verify_opt_registration.php on line 11
+[23-Aug-2022 23:25:00 Asia/Karachi] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/glonnwas/public_html/videoApp/includes/PHPMailer-master/PHPMailerAutoload.php on line 45
+[23-Aug-2022 23:27:39 Asia/Karachi] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/glonnwas/public_html/videoApp/includes/PHPMailer-master/PHPMailerAutoload.php on line 45
+[23-Aug-2022 23:31:57 Asia/Karachi] PHP Notice:  Undefined index: password in /home/glonnwas/public_html/videoApp/api/verify_forget_otp.php on line 11
+[23-Aug-2022 23:32:10 Asia/Karachi] PHP Notice:  Undefined index: password in /home/glonnwas/public_html/videoApp/api/verify_forget_otp.php on line 11
+[23-Aug-2022 23:32:22 Asia/Karachi] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/glonnwas/public_html/videoApp/includes/PHPMailer-master/PHPMailerAutoload.php on line 45
+[23-Aug-2022 23:32:47 Asia/Karachi] PHP Notice:  Undefined index: password in /home/glonnwas/public_html/videoApp/api/verify_forget_otp.php on line 11
+[23-Aug-2022 23:34:09 Asia/Karachi] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/glonnwas/public_html/videoApp/includes/PHPMailer-master/PHPMailerAutoload.php on line 45
+[23-Aug-2022 23:34:25 Asia/Karachi] PHP Notice:  Undefined index: password in /home/glonnwas/public_html/videoApp/api/verify_forget_otp.php on line 11
+[23-Aug-2022 23:36:01 Asia/Karachi] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/glonnwas/public_html/videoApp/includes/PHPMailer-master/PHPMailerAutoload.php on line 45
+[23-Aug-2022 23:36:17 Asia/Karachi] PHP Notice:  Undefined index: password in /home/glonnwas/public_html/videoApp/api/verify_forget_otp.php on line 11
+[23-Aug-2022 23:37:57 Asia/Karachi] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/glonnwas/public_html/videoApp/includes/PHPMailer-master/PHPMailerAutoload.php on line 45
+[23-Aug-2022 23:38:39 Asia/Karachi] PHP Notice:  Undefined index: password in /home/glonnwas/public_html/videoApp/api/verify_forget_otp.php on line 11
+[23-Aug-2022 23:39:13 Asia/Karachi] PHP Notice:  Undefined index: password in /home/glonnwas/public_html/videoApp/api/verify_forget_otp.php on line 11
+[23-Aug-2022 23:40:12 Asia/Karachi] PHP Notice:  Undefined index: password in /home/glonnwas/public_html/videoApp/api/verify_forget_otp.php on line 11
+[23-Aug-2022 23:42:14 Asia/Karachi] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/glonnwas/public_html/videoApp/includes/PHPMailer-master/PHPMailerAutoload.php on line 45
+[23-Aug-2022 23:42:39 Asia/Karachi] PHP Notice:  Undefined index: password in /home/glonnwas/public_html/videoApp/api/verify_forget_otp.php on line 11
+[23-Aug-2022 14:43:29 America/New_York] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/glonnwas/public_html/videoApp/api/forget_password.php on line 53
+[23-Aug-2022 14:43:33 America/New_York] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/glonnwas/public_html/videoApp/api/forget_password.php on line 53
+[23-Aug-2022 14:43:36 America/New_York] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/glonnwas/public_html/videoApp/api/forget_password.php on line 53
+[23-Aug-2022 14:43:48 America/New_York] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/glonnwas/public_html/videoApp/api/forget_password.php on line 53
+[23-Aug-2022 23:44:24 Asia/Karachi] PHP Notice:  Undefined index: password in /home/glonnwas/public_html/videoApp/api/verify_forget_otp.php on line 11
+[23-Aug-2022 23:45:43 Asia/Karachi] PHP Notice:  Undefined index: password in /home/glonnwas/public_html/videoApp/api/verify_forget_otp.php on line 11
+[23-Aug-2022 23:46:32 Asia/Karachi] PHP Notice:  Undefined index: password in /home/glonnwas/public_html/videoApp/api/verify_forget_otp.php on line 11
+[23-Aug-2022 23:50:58 Asia/Karachi] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/glonnwas/public_html/videoApp/includes/PHPMailer-master/PHPMailerAutoload.php on line 45
+[23-Aug-2022 23:51:44 Asia/Karachi] PHP Notice:  Undefined index: password in /home/glonnwas/public_html/videoApp/api/verify_opt_registration.php on line 11
+[23-Aug-2022 23:53:03 Asia/Karachi] PHP Notice:  Undefined index: password in /home/glonnwas/public_html/videoApp/api/verify_opt_registration.php on line 11
+[24-Aug-2022 00:09:15 Asia/Karachi] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/glonnwas/public_html/videoApp/includes/PHPMailer-master/PHPMailerAutoload.php on line 45
+[24-Aug-2022 00:09:20 Asia/Karachi] PHP Notice:  Undefined variable: mobile in /home/glonnwas/public_html/videoApp/api/create_user.php on line 91
+[24-Aug-2022 00:44:37 Asia/Karachi] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/glonnwas/public_html/videoApp/includes/PHPMailer-master/PHPMailerAutoload.php on line 45
+[24-Aug-2022 00:46:47 Asia/Karachi] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/glonnwas/public_html/videoApp/includes/PHPMailer-master/PHPMailerAutoload.php on line 45
+[24-Aug-2022 00:47:12 Asia/Karachi] PHP Notice:  Undefined index: password in /home/glonnwas/public_html/videoApp/api/verify_opt_registration.php on line 11
+[24-Aug-2022 00:47:40 Asia/Karachi] PHP Notice:  Undefined index: password in /home/glonnwas/public_html/videoApp/api/verify_opt_registration.php on line 11
+[24-Aug-2022 00:48:48 Asia/Karachi] PHP Notice:  Undefined index: password in /home/glonnwas/public_html/videoApp/api/verify_opt_registration.php on line 11
+[24-Aug-2022 00:49:26 Asia/Karachi] PHP Notice:  Undefined index: password in /home/glonnwas/public_html/videoApp/api/verify_opt_registration.php on line 11
+[24-Aug-2022 00:51:32 Asia/Karachi] PHP Notice:  Undefined index: password in /home/glonnwas/public_html/videoApp/api/verify_opt_registration.php on line 11
+[24-Aug-2022 00:55:13 Asia/Karachi] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/glonnwas/public_html/videoApp/includes/PHPMailer-master/PHPMailerAutoload.php on line 45
+[24-Aug-2022 00:55:35 Asia/Karachi] PHP Notice:  Undefined index: password in /home/glonnwas/public_html/videoApp/api/verify_forget_otp.php on line 11
+[24-Aug-2022 00:57:11 Asia/Karachi] PHP Notice:  Undefined index: password in /home/glonnwas/public_html/videoApp/api/verify_forget_otp.php on line 11
+[24-Aug-2022 00:58:24 Asia/Karachi] PHP Notice:  Undefined index: password in /home/glonnwas/public_html/videoApp/api/verify_forget_otp.php on line 11
+[24-Aug-2022 01:02:48 Asia/Karachi] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/glonnwas/public_html/videoApp/includes/PHPMailer-master/PHPMailerAutoload.php on line 45
+[24-Aug-2022 01:03:00 Asia/Karachi] PHP Notice:  Undefined index: password in /home/glonnwas/public_html/videoApp/api/verify_forget_otp.php on line 11
+[24-Aug-2022 01:13:16 Asia/Karachi] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/glonnwas/public_html/videoApp/includes/PHPMailer-master/PHPMailerAutoload.php on line 45
+[25-Aug-2022 20:35:14 Asia/Karachi] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/glonnwas/public_html/videoApp/includes/PHPMailer-master/PHPMailerAutoload.php on line 45
+[25-Aug-2022 20:35:19 Asia/Karachi] PHP Notice:  Undefined variable: mobile in /home/glonnwas/public_html/videoApp/api/create_user.php on line 91
+[25-Aug-2022 20:40:19 Asia/Karachi] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/glonnwas/public_html/videoApp/includes/PHPMailer-master/PHPMailerAutoload.php on line 45
+[25-Aug-2022 20:40:36 Asia/Karachi] PHP Notice:  Undefined index: password in /home/glonnwas/public_html/videoApp/api/verify_opt_registration.php on line 11
+[26-Aug-2022 00:46:28 Asia/Karachi] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/glonnwas/public_html/videoApp/includes/PHPMailer-master/PHPMailerAutoload.php on line 45
+[26-Aug-2022 00:47:20 Asia/Karachi] PHP Notice:  Undefined index: password in /home/glonnwas/public_html/videoApp/api/verify_opt_registration.php on line 11
+[26-Aug-2022 00:49:15 Asia/Karachi] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/glonnwas/public_html/videoApp/includes/PHPMailer-master/PHPMailerAutoload.php on line 45
+[26-Aug-2022 00:50:38 Asia/Karachi] PHP Notice:  Undefined variable: mobile in /home/glonnwas/public_html/videoApp/api/create_user.php on line 91
+[26-Aug-2022 00:51:22 Asia/Karachi] PHP Notice:  Undefined index: password in /home/glonnwas/public_html/videoApp/api/verify_opt_registration.php on line 11
+[18-Oct-2022 16:11:53 Asia/Karachi] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/glonnwas/public_html/videoApp/includes/PHPMailer-master/PHPMailerAutoload.php on line 45
+[18-Oct-2022 16:11:58 Asia/Karachi] PHP Notice:  Undefined variable: mobile in /home/glonnwas/public_html/videoApp/api/create_user.php on line 91
+[18-Oct-2022 16:12:07 Asia/Karachi] PHP Notice:  Undefined index: password in /home/glonnwas/public_html/videoApp/api/verify_opt_registration.php on line 11
+[18-Oct-2022 16:13:02 Asia/Karachi] PHP Notice:  Undefined index: password in /home/glonnwas/public_html/videoApp/api/verify_opt_registration.php on line 11
+[19-Oct-2022 23:51:32 Asia/Karachi] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/glonnwas/public_html/videoApp/includes/PHPMailer-master/PHPMailerAutoload.php on line 45
+[19-Oct-2022 23:51:51 Asia/Karachi] PHP Notice:  Undefined index: password in /home/glonnwas/public_html/videoApp/api/verify_forget_otp.php on line 11
+[19-Oct-2022 23:54:13 Asia/Karachi] PHP Notice:  Undefined index: password in /home/glonnwas/public_html/videoApp/api/verify_forget_otp.php on line 11
+[28-Oct-2022 21:15:01 Asia/Karachi] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/glonnwas/public_html/videoApp/includes/PHPMailer-master/PHPMailerAutoload.php on line 45
+[28-Oct-2022 21:15:09 Asia/Karachi] PHP Notice:  Undefined variable: mobile in /home/glonnwas/public_html/videoApp/api/create_user.php on line 91
+[28-Oct-2022 21:16:17 Asia/Karachi] PHP Notice:  Undefined index: password in /home/glonnwas/public_html/videoApp/api/verify_opt_registration.php on line 11
+[29-Oct-2022 00:30:41 Asia/Karachi] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/glonnwas/public_html/videoApp/includes/PHPMailer-master/PHPMailerAutoload.php on line 45
+[29-Oct-2022 00:30:46 Asia/Karachi] PHP Notice:  Undefined variable: mobile in /home/glonnwas/public_html/videoApp/api/create_user.php on line 91
+[29-Oct-2022 00:33:41 Asia/Karachi] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/glonnwas/public_html/videoApp/includes/PHPMailer-master/PHPMailerAutoload.php on line 45
+[29-Oct-2022 00:33:45 Asia/Karachi] PHP Notice:  Undefined variable: mobile in /home/glonnwas/public_html/videoApp/api/create_user.php on line 91
+[29-Oct-2022 00:34:28 Asia/Karachi] PHP Notice:  Undefined index: password in /home/glonnwas/public_html/videoApp/api/verify_opt_registration.php on line 11
+[29-Oct-2022 00:39:03 Asia/Karachi] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/glonnwas/public_html/videoApp/includes/PHPMailer-master/PHPMailerAutoload.php on line 45
+[29-Oct-2022 00:39:07 Asia/Karachi] PHP Notice:  Undefined variable: mobile in /home/glonnwas/public_html/videoApp/api/create_user.php on line 91
+[29-Oct-2022 00:40:16 Asia/Karachi] PHP Notice:  Undefined index: password in /home/glonnwas/public_html/videoApp/api/verify_opt_registration.php on line 11
